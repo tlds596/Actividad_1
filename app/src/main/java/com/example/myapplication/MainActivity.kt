@@ -84,8 +84,6 @@ fun Home () {
         Row(
             modifier = Modifier.fillMaxWidth().height(20.dp).border(1.dp, Color.Black),
         ){}
-
-
         }
     }
 }
